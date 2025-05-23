@@ -20,8 +20,6 @@ Look at my practice with google deepmind, a research company of google:www.deepm
 
 EDA = Exploratory Data analysis is the process of analyzing data sets to summarize the sample(s) at hand, often with the goal of deriving useful insights. 
 
-It is a fundamental part of the data science process, and is used by data scientists to understand the data and identify patterns and trends that can be used to make predictions or draw conclusions about the data.  
-
 It is foundational to machine learning and data science, and is used by data scientists to understand the data and identify patterns and trends that can be used to make predictions or draw conclusions about the data.
 
 EDA is also called feature engineering technique.
